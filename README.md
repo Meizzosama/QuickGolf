@@ -16,6 +16,8 @@ You can explore the live demo of the Quick Golf Website
 https://i.ibb.co/Hqgkk1Z/web1.png
 
 
+https://quickgolf.netlify.app/
+
 ## Getting Started
 
 To run this project locally, follow these steps:
