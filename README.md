@@ -1,5 +1,3 @@
 # Collab_project
  
-24:15
-
-Usama
+53:34
