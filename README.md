@@ -11,7 +11,8 @@ Welcome to the Quick Golf Website project! This website is designed to provide q
 
 ## Demo
 
-You can explore the live demo of the Quick Golf Website [here](![image](https://github.com/Meizzosama/QuickGolf/assets/100303780/106c568b-9092-43e4-ba5c-4d1de1a81692)).
+You can explore the live demo of the Quick Golf Website ![image](https://github.com/Meizzosama/QuickGolf/assets/100303780/3dd76c80-6375-4fdc-86d2-8cf9ea499fb6)
+
 
 ## Getting Started
 
