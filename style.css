@@ -261,9 +261,8 @@
   }
   .overlay h4 {
     color: #000;
-    font-size: 40px;
-    text-transform: uppercase;
-    white-space: nowrap;
+    font-size: 30px;
+    text-transform: uppercase;  
     margin-bottom: 20px;
     font-weight: 800;
   }
