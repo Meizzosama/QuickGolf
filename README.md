@@ -13,10 +13,11 @@ Welcome to the Quick Golf Website project! This website is designed to provide q
 
 You can explore the live demo of the Quick Golf Website
 
-![web1](https://github.com/Meizzosama/QuickGolf/assets/100303780/c77fa07c-0737-4d87-8705-859ce3e092a6)
+![image](https://github.com/Meizzosama/QuickGolf/assets/100303780/a41f1f58-5c15-48e9-8670-80332c372ffb)
 
 
-https://quickgolf.netlify.app/
+
+https://meizzosama.github.io/QuickGolf/
 
 ## Getting Started
 
